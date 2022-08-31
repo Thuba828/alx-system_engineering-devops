@@ -1,2 +1,2 @@
 #!/bin/bash
-hopefully I get this right
+Printing the absolute path name of the current working directory
