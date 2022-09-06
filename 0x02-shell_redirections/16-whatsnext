@@ -1,2 +1,2 @@
 #!/bin/bash
-vi 16-whatsnext
+grep root /etc/passwd --after-context=3 
